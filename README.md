@@ -77,7 +77,7 @@ func main() {
 1. Add a condition to check if the age is exactly 11.  
 2. Add a condition to check if the age is between 13 and 21
 3. Add a condituon to check if the age is above 21
-4. Write a program that checks if a number is even or odd.   
+4. Add a conditon to check whether or not the age is even or odd
 
 ---
 
