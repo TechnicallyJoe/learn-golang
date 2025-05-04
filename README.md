@@ -74,7 +74,7 @@ func main() {
 ```  
 
 #### Solo Tasks
-1. Add a condition to check if the age is between 13 and 21
+1. Add a condition to check if the age is between 13 and 19
 2. Add a condituon to check if the age is above 21
 3. Add a conditon to check whether or not the age is even or odd
 
